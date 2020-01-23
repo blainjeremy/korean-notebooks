@@ -9,17 +9,19 @@ Self Study Korean - Shanna
 숙어 = idiomatic expression
 예문 = examples
 상세검색 = advanced search
+
 Hangeul Master
 모음 = collection
 받침 = support (cup of tea)
-
 라디오 = X-ray
+
 Duolingo
 이 = tooth
 아이 = child (what about 애기(baby))
 우유 = milk
 우의 = friendship, raincoat
 위 = stomach, top
+
 Misc
 시장 = mayor + hungry
 
@@ -46,3 +48,4 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 
 새 = new, bird
 앨범 = album (how about 집, 모음 ???)
+
