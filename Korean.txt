@@ -1,0 +1,92 @@
+한글	hangeul (Korean alphabet)
+hangeul (Korean alphabet)	한글
+마스터	master (EN)
+master (EN)	마스터
+한자	hanja (Chinese character)
+hanja (Chinese character)	한자
+친구	friend
+friend	친구
+자음	consonant
+consonant	자음
+이중모음	combination of two vowels (diphthong)
+combination of two vowels (diphthong)	이중모음
+쌍자음	double consonant
+double consonant	쌍자음
+신문지	newspaper (object)
+newspaper (object)	신문지
+신문사	newspaper company
+newspaper company	신문사
+신문	newspaper (media)
+newspaper (media)	신문
+사전	dictionary
+dictionary	사전
+받침	final consonant
+final consonant	받침
+모음	vowel
+vowel	모음
+단모음	pure vowel (monophthong)
+pure vowel (monophthong)	단모음
+라디오	radio
+radio	라디오
+피자	pizza
+pizza	피자
+볼링	bowling
+bowling	볼링
+볼링장	bowling alley (venue)
+bowling alley (venue)	볼링장
+볼링 레인	bowling alley (lane)
+bowling alley (lane)	볼링 레인
+볼링 공	bowling ball
+bowling ball	볼링 공
+볼링 핀	bowling pin
+bowling pin	볼링 핀
+크리스마스	Christmas (EN)
+Christmas (EN)	크리스마스
+크리스마스 이브	Christmas eve
+Christmas eve	크리스마스 이브
+크리스마스 트리	Christmas tree
+Christmas tree	크리스마스 트리
+성탄절	Christmas (KR)
+Christmas (KR)	성탄절
+크리스마스&nbsp;마켓	Christmas market
+Christmas market	크리스마스&nbsp;마켓
+슈퍼마켓	supermarket
+supermarket	슈퍼마켓
+카드	card
+card	카드
+파티	party (EN)
+party (EN)	파티
+선물	gift, present, souvenir
+gift, present, souvenir	선물
+산타클로스	Santa Claus
+Santa Claus	산타클로스
+신용 카드	credit card
+credit card	신용 카드
+크리스마스 등불	Christmas lights
+Christmas lights	크리스마스 등불
+은행	bank
+bank	은행
+은행 계좌	bank account
+bank account	은행 계좌
+은행 예금	bank deposit, savings
+bank deposit, savings	은행 예금
+시장	market (KR)
+market (KR)	시장
+암시장	black market
+black market	암시장
+야시장	night market
+night market	야시장
+어시장	fish market
+fish market	어시장
+마켓	market (EN)
+market (EN)	마켓
+벼룩시장	flea market
+flea market	벼룩시장
+가게	shop, store
+shop, store	가게
+우산	umbrella
+umbrella	우산
+양산	parasol (small)
+parasol (small)	양산
+파라솔	parasol (big)
+parasol (big)	파라솔

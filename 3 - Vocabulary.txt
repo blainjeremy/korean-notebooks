@@ -30,7 +30,7 @@ shop
 shopping
 쇼핑센터
 쇼핑몰
-백화점department store
+백화점 department store
 
 핵 = nuclear + hack
 
@@ -49,3 +49,9 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 새 = new, bird
 앨범 = album (how about 집, 모음 ???)
 
+님 > 씨
+선생님
+의사선생님 when addressing to him, not just 의사
+교수님
+
+생존 alive
