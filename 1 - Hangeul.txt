@@ -8,7 +8,7 @@
 
 More advanced letters based on the basic ones also exist :
  - Twin/double consonants (쌍자음)
- - Diphtongs of vowels (이중모음)
+ - Diphtongs (이중모음)
 
 
 
@@ -16,31 +16,7 @@ More advanced letters based on the basic ones also exist :
 
 
 
-	===============
-	Syllable Blocks
-	===============
-
 Syllables are composed of at least one (C)onsonant (Initial) and one (V)owel (Medial), then an optional (C)onsonant (Final (받침)) can be added.
-The type of syllable block to use depends on the type of vowel and how many letters are in it.
-
-C V
-
-C
-V
-
-C V
- C
-
-C
-V
-C
-
-C V
-C C
-
- C
- V
-C C
 
 	==================
 	Alphabetical Order
@@ -64,7 +40,7 @@ Basic consonants (기본자음) :
 ㄷ d (t/d when first letter of word)
 ㅁ m
 ㅂ b (p/b when first letter of word)
-ㅅ s (sh when followed by an i-based sound (ㅣ ㅑ ㅕ ㅛ ㅠ ㅖ ㅒ))
+ㅅ s (sh when followed by an i-based sound (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ))
 ㅈ j (ch/j when first letter of word)
 ㅎ h
 ㄹ r (r/l (but romanized and pronounced l when ㄹ + ㄹ))
@@ -75,7 +51,7 @@ Basic consonants (기본자음) :
 ㄲ kk (short)							???
 ㄸ tt
 ㅃ pp
-ㅆ ss       ???       (ssshhh when followed by an i-based sound (ㅣ ㅑ ㅕ ㅛ ㅠ ㅖ ㅒ))
+ㅆ ss       ???       (ssshhh when followed by an i-based sound (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ))
 ㅉ jj (zz as in pizza)			???
 ㅊ ch
 ㅋ k
@@ -103,30 +79,31 @@ Basic vowels (기본모음/단모음) :
 
 ㅏ a
 ㅗ o (closed o)
-
-Diphtongs of vowels (이중모음) :
-
-
-
-ㅐ ae (originally slightly acute but now pronounced e)		???
-ㅑ ya
-ㅒ yae
 ㅓ eo (open o)
-ㅔ e
-ㅕ yeo
-ㅖ ye
-ㅘ wa
-ㅙ wae
-ㅚ oe (pronounced we)										???
-ㅛ yo
 ㅜ u
-ㅝ wo
-ㅞ we
-ㅟ wi
-ㅠ yu
 ㅡ eu
-ㅢ ui
 ㅣ i
+ㅑ ya
+ㅛ yo
+ㅕ yeo
+ㅠ yu
+
+Diphtongs (이중모음) :
+
+ㅔ e
+ㅐ ae (pronounced like ㅔ) 		but originally was slightly more acute		???
+ㅖ ye
+ㅒ yae (pronounced like ㅖ) 		but originally was slightly more acute		???
+
+
+
+ㅘ wa
+ㅙ wae (pronounced we)					???
+ㅚ oe (pronounced we)					???
+ㅝ wo
+ㅞ we (pronounced we)					???
+ㅟ wi
+ㅢ ui
 
 
 
@@ -135,18 +112,11 @@ Final
 
 ㄸ, ㅃ and ㅉ are the only consonants not allowed to be used as a Final.
 
-
-
-ㄱ ㄲ ㄳ ㄴ ㄵ ㄶ ㄷ ㄹ ㄺ ㄻ ㄼ ㄽ ㄾ ㄿ ㅀ ㅁ ㅂ ㅄ ㅅ ㅆ 
-ㅇ ng
-ㅈ ㅊ ㅋ ㅌ ㅍ 
-ㅎ t (silent if there is a following syllable)				???
-
-
+When the next syllable starts with ㅇ, we can orally link them together : for example, 밥을 is pronounced like 바블.
 
 Basic consonants (기본자음) :
 
-
+ㅇ ng
 
 Twin/double consonants (쌍자음) :
 
@@ -156,18 +126,35 @@ Other consonant clusters			() :				???
 
 
 
+ㄱ ㄲ 
+ㄳ k (ㅅ is silent unless it can link the following syllable)
+ㄴ 
+ㄵ n (ㅈ is silent unless it can link the following syllable)
+ㄶ n (ㅎ is silent unless it can link the following syllable)
+ㄷ ㄹ 
+ㄺ k (ㄹ is silent but both are pronounced if the following syllable can be linked)
+ㄻ m (ㄹ is silent but both are pronounced if the following syllable can be linked)
+ㄼ l (ㅂ is silent unless it can link the following syllable)
+ㄽ l (ㅅ is silent unless it can link the following syllable)
+ㄾ l (ㅌ is silent unless it can link the following syllable)
+ㄿ l (ㅍ is silent unless it can link the following syllable)
+ㅀ l (ㅎ is silent unless it can link the following syllable)
+ㅁ ㅂ 
+ㅄ p (ㅅ is silent unless it can link the following syllable)
+ㅅ ㅆ 
+ㅈ ㅊ ㅋ ㅌ ㅍ 
+ㅎ t (silent if there is a following syllable)				???
+
+
+
 	===================
 	Sound Changes Rules
 	===================
 
 
 
-ㅅ and ㅆ are pronounced sh
-and ssh
-when followed by an i-based sound (ㅣ ㅑ ㅕ ㅛ ㅠ ㅖ ㅒ).
-
-
-
 ㄹ + ㄴ = ㄹㄹ
 ㅇ + ㄹ = ㅇㄴ
 ㅂ + ㄴ = ㅁㄴ
+
+
