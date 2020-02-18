@@ -40,7 +40,7 @@ Basic consonants (기본자음) :
 ㄷ d (t/d when first letter of word)
 ㅁ m
 ㅂ b (p/b when first letter of word)
-ㅅ s (sh when followed by an i-based sound (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ))
+ㅅ s (sh when followed by an i-based sound (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅢ))
 ㅈ j (ch/j when first letter of word)
 ㅎ h
 ㄹ r (r/l (but romanized and pronounced l when ㄹ + ㄹ))
@@ -48,19 +48,11 @@ Basic consonants (기본자음) :
 
 
 
-ㄲ kk (short)							???
-ㄸ tt
-ㅃ pp
-ㅆ ss       ???       (ssshhh when followed by an i-based sound (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ))
-ㅉ jj (zz as in pizza)			???
-ㅊ ch
+stronger exhale than their basic counterpart
 ㅋ k
 ㅌ t
 ㅍ p
-
-
-
-hard consonant (ㅍ) => expire air
+ㅊ ch
 
 
 
@@ -68,7 +60,13 @@ Twin/double consonants (쌍자음) :
 
 
 
-double consonant => fo ke ca pop, dont expire air, aigue like ㅐ
+Pronounced like their basic counterpart but .
+
+ㄲ kk (shorter, tense your mouth, make a little pause before, little exhale, acute)			???
+ㄸ tt
+ㅃ pp
+ㅆ ss       ???       (sh when followed by an i-based sound (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅢ))
+ㅉ jj (???zz as in pizza)			???
 
 
 
@@ -103,7 +101,7 @@ Diphtongs (이중모음) :
 ㅝ wo
 ㅞ we (pronounced we)					???
 ㅟ wi
-ㅢ ui
+ㅢ ui (pronounced ㅣ when not used with the empty consonant ㅇ)		???
 
 
 
@@ -120,18 +118,20 @@ Basic consonants (기본자음) :
 
 Twin/double consonants (쌍자음) :
 
-
+ㄲ k
+ㅆ t
 
 Other consonant clusters			() :				???
 
 
 
-ㄱ ㄲ 
+ㄱ k
 ㄳ k (ㅅ is silent unless it can link the following syllable)
-ㄴ 
+ㄴ n
 ㄵ n (ㅈ is silent unless it can link the following syllable)
 ㄶ n (ㅎ is silent unless it can link the following syllable)
-ㄷ ㄹ 
+ㄷ t
+ㄹ l
 ㄺ k (ㄹ is silent but both are pronounced if the following syllable can be linked)
 ㄻ m (ㄹ is silent but both are pronounced if the following syllable can be linked)
 ㄼ l (ㅂ is silent unless it can link the following syllable)
@@ -139,10 +139,15 @@ Other consonant clusters			() :				???
 ㄾ l (ㅌ is silent unless it can link the following syllable)
 ㄿ l (ㅍ is silent unless it can link the following syllable)
 ㅀ l (ㅎ is silent unless it can link the following syllable)
-ㅁ ㅂ 
+ㅁ m
+ㅂ p
 ㅄ p (ㅅ is silent unless it can link the following syllable)
-ㅅ ㅆ 
-ㅈ ㅊ ㅋ ㅌ ㅍ 
+ㅅ t
+ㅈ t
+ㅊ t
+ㅋ k
+ㅌ t
+ㅍ p
 ㅎ t (silent if there is a following syllable)				???
 
 

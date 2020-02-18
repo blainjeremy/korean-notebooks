@@ -1,6 +1,90 @@
-	===================
-	Advanced Vocabulary
-	===================
+	================
+	From 한글 Lessons
+	================
+
+기본 basic
+소리문자 phonetic
+
+Hangeul Master
+--------------
+
+모음 = collection
+받침 = support (cup of tea)
+라디오 = X-ray
+
+Billy
+-----
+
+등 back/dos
+긁다? scratch
+값 price
+서류 document
+흙 dirt soil clay ground earth
+밝 bright
+
+기 energy power 끼 meal
+달 moon 딸 daughter
+방 room 빵 bread
+살 flesh 쌀 uncooked rice
+자다 to sleep 짜다 to be salty
+불 fire 뿔 horns 풀 grass glue
+
+Unnie
+-----
+
+고모 aunt ()
+이모 aunt ()
+
+BusyAtom
+--------
+
+연습시간 practice time
+약 medecine
+양 sheep
+양고기 lamb
+신 god
+김밥 비빔밥 김치
+가수 singer
+
+Ms. Kiki
+--------
+
+거위 goose
+구두 shoes
+나라 country
+나비 butterfly
+도로 road
+두부 tofu
+로마 roma
+모자 hat
+머리 head hair
+부부 couple
+보리 barley(orge)
+소 cow
+시소 seesaw(balançoire)
+아기 baby
+오이 cucumber
+자 ruler 삼각자 triangle(équerre)
+조개 seashell
+초 candle
+치즈 cheese
+키위 kiwi
+카메라 camera
+토끼 rabbit
+타조 ostrich
+포도 grapes
+파이 pie(tarte)
+하마 hippo
+호주 australia
+까마귀 crow
+땅 land
+뽀뽀 kiss
+쓰레기 garbage
+짜장면
+
+	================
+	Other Vocabulary
+	================
 
 장인 = artisan, craftsman
 
@@ -13,11 +97,6 @@ Self Study Korean - Shanna
 숙어 = idiomatic expression
 예문 = examples
 상세검색 = advanced search
-
-Hangeul Master
-모음 = collection
-받침 = support (cup of tea)
-라디오 = X-ray
 
 Duolingo
 이 = tooth
@@ -63,11 +142,4 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 러브송 love song
 러브레터 love letter
 
-기본 basic
-
-등 back/dos
-긁다? scratch
-값 price
-서류 document
-흙 dirt soil clay ground earth
-밝 bright
+아무튼 anyway
