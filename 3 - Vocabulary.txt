@@ -2,6 +2,7 @@
 	From 한글 Lessons
 	================
 
+구조 structure constitution
 기본 basic
 소리문자 phonetic
 
@@ -13,6 +14,24 @@ Hangeul Master
 모음 = collection
 받침 = support (cup of tea)
 라디오 = X-ray
+캐 dog
+나무 tree
+다리 leg(s)
+치마 skirt
+고래 whale
+버스 bus
+커피 coffee
+테이프 tape (cassette and/or scotch)
+귀 ear
+시계 clock horloge
+뇌 brain
+우유 milk
+의자 chair
+돼지 pig
+과자 snack
+티슈 tissue(mouchoir)
+웨이터 waiter
+화이트보드 whiteboard
 
 Billy
 -----
@@ -23,6 +42,8 @@ Billy
 서류 document
 흙 dirt soil clay ground earth
 밝 bright
+밝다 to be bright
+어둡다 to be dark
 
 기 energy power 끼 meal
 달 moon 딸 daughter
