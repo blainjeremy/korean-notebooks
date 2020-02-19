@@ -96,6 +96,7 @@ Unnie
 파도 wave
 싸우다 to fight
 인형 doll puppet
+부엌 kitchen
 
 BusyAtom
 --------

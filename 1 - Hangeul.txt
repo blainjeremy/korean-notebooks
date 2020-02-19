@@ -81,23 +81,23 @@ Basic vowels
 ------------
 
 ㅏ a
-ㅗ o (closed)
+ㅗ o  (closed)
 ㅓ eo (open)
 ㅜ u
 
-ㅡ eu
-ㅣ i
-
 ㅑ ya
-ㅛ yo (closed)
+ㅛ yo  (closed)
 ㅕ yeo (open)
 ㅠ yu
+
+ㅡ eu
+ㅣ i
 
 Diphtongs
 ---------
 
 ㅔ e
-ㅐ ae (pronounced like ㅔ, but was originally slightly more acute)
+ㅐ ae  (pronounced like ㅔ, but was originally slightly more acute)
 ㅖ ye
 ㅒ yae (pronounced like ㅖ, but was originally slightly more acute)
 
@@ -106,10 +106,17 @@ Diphtongs
 
 ㅞ we
 ㅙ wae (pronounced like ㅞ, but was originally slightly more acute)
-ㅚ oe (pronounced like ㅞ)
+ㅚ oe  (pronounced like ㅞ)
 
 ㅟ wi
 ㅢ ui (pronounced ㅣ when not following ㅇ (for example, 희 is pronounced 히))
+
+Vowel Harmony
+-------------
+
+Bright vowels (양성모음) have ㅏ or ㅗ as base : ㅏ ㅗ ㅑ ㅛ ㅐ ㅒ ㅘ ㅙ ㅚ.
+Dark   vowels (음성모음) have ㅓ or ㅜ as base : ㅓ ㅜ ㅕ ㅠ ㅔ ㅖ ㅝ ㅞ ㅟ ㅡ ㅢ.
+ㅣ is Neutral (중성모음).
 
 	Final
 	=====
