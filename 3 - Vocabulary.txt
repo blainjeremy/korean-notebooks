@@ -5,6 +5,8 @@
 기본 basic
 소리문자 phonetic
 
+김밥 비빔밥 김치 짜장면 잡채
+
 Hangeul Master
 --------------
 
@@ -32,19 +34,82 @@ Billy
 Unnie
 -----
 
-고모 aunt ()
-이모 aunt ()
+고모 aunt (dad side) 이모 aunt (mum side)
+가방 bag
+가위 scissors
+남자 man 여자 woman
+드라마 drama
+더빙 dubbing(doublage)
+도시 city
+대만 taiwan
+대통령 president(country)
+라면 instant noodles
+러시아 russia
+로켓 rocket
+로비 lobby(room)
+무릎 knee(s)
+문제 problem question
+부자 wealthy rich
+바지 pants
+비자 visa
+바보 fool (cute, not too offensive)
+방귀 fart
+사과 apple
+수박 watermelon(pastèque)
+자동차 car
+지하철 subway
+지도 map
+지각 tardy
+주말 weekend
+차 car tea
+치킨 (fried) chicken
+초밥 스시 sushi
+칫솔 toothbrush
+치약 toothpaste
+치과 dental hospital
+치과의사 dentist (person)
+카톡 kakao talk
+커튼 curtain
+코트 coat
+코 nose
+택시 taxi
+티머니 T-Money
+테니스 tennis
+토론토 toronto
+피 blood
+파리 paris fly
+포켓몬 pokemon
+포르투갈 portugal
+하늘 sky
+호텔 hotel
+홍콩 hong kong
+허브 herb(medicine/botanic)
+꼬마 (little) kid
+숙녀 lady
+꼬마숙녀 little lady
+또 again, once more, as well
+싸다 cheap, inexpensive
+카레 curry
+다람쥐 squirrel
+타이 tie
+땅콩 peanut
+파도 wave
+싸우다 to fight
+인형 doll puppet
 
 BusyAtom
 --------
 
 연습시간 practice time
-약 medecine
+약 medicine
 양 sheep
 양고기 lamb
 신 god
-김밥 비빔밥 김치
 가수 singer
+과수원 orchard(verger)
+외국사람 foreigner
+전자레인지 microwave
+휘파람 whistling(sifflement)
 
 Ms. Kiki
 --------
@@ -56,12 +121,12 @@ Ms. Kiki
 도로 road
 두부 tofu
 로마 roma
-모자 hat
+모자 hat cap
 머리 head hair
 부부 couple
 보리 barley(orge)
 소 cow
-시소 seesaw(balançoire)
+시소 seesaw(bascule(balançoire))
 아기 baby
 오이 cucumber
 자 ruler 삼각자 triangle(équerre)
@@ -72,7 +137,7 @@ Ms. Kiki
 카메라 camera
 토끼 rabbit
 타조 ostrich
-포도 grapes
+포도 grape
 파이 pie(tarte)
 하마 hippo
 호주 australia
@@ -80,7 +145,20 @@ Ms. Kiki
 땅 land
 뽀뽀 kiss
 쓰레기 garbage
-짜장면
+
+Dom & Hyo
+---------
+
+팀 team
+게임 game
+키스 kiss
+와인 wine
+주스 juice
+컴퓨터 computer
+칩 chip
+사자 lion
+창문 window
+음식 food
 
 	================
 	Other Vocabulary
