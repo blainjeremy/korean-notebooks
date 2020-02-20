@@ -9,7 +9,7 @@
 More advanced letters based on the basic ones also exist :
  - Double consonants (쌍자음)
  - Diphtongs (이중모음)
- - Consonant clusters (겹받침)
+ - Compound consonants (겹받침)
 
 Syllables are composed of at least one consonant (Initial (초성)) and one vowel (Medial (중성)), then an optional consonant (Final (종성/받침)) can be added.
 
@@ -53,7 +53,7 @@ Aspirated consonants are pronounced with more airflow :
 Double consonants
 -----------------
 
-Double consonants are pronounced with the mouth tensed and less airflow :
+Double consonants are pronounced with the mouth tensed, less airflow and a higher pitch :
 ㄲ kk
 ㄸ tt
 ㅃ pp
@@ -107,47 +107,67 @@ Dark   vowels (음성모음) have ㅓ or ㅜ as base : ㅓ ㅜ ㅕ ㅠ ㅔ ㅖ �
 	Final
 	=====
 
-ㄸ, ㅃ and ㅉ can't be used as a Final.
-
 When the next syllable starts with ㅇ, we can orally link them together (for example, 밥을 is pronounced 바블).
 
 Basic consonants
 ----------------
 
+ㄱ k
+ㄴ n
+ㄷ t
+ㄹ l
+ㅁ m
+ㅂ p
+ㅅ t
 ㅇ ng
+ㅈ t
 
-Consonant clusters
-------------------
+ㅋ k
+ㅌ t
+ㅍ p
+ㅊ t
+ㅎ t (silent when the next syllable starts with ㅇ)
+
+Double consonants
+-----------------
+
+ㄸ, ㅃ and ㅉ can't be used as a Final.
 
 ㄲ k
 ㅆ t
 
+Compound consonant
+------------------
+
+The second consonant is silent unless it can be linked to the following syllable.
+
+ㄳ k
+ㄵ n
 
 
-ㄱ k
-ㄳ k (ㅅ is silent unless it can link the following syllable)
-ㄴ n
-ㄵ n (ㅈ is silent unless it can link the following syllable)
-ㄶ n (ㅎ is silent unless it can link the following syllable)
-ㄷ t
-ㄹ l
-ㄺ k (ㄹ is silent but both are pronounced if the following syllable can be linked)
-ㄻ m (ㄹ is silent but both are pronounced if the following syllable can be linked)
-ㄼ l (ㅂ is silent unless it can link the following syllable)
-ㄽ l (ㅅ is silent unless it can link the following syllable)
-ㄾ l (ㅌ is silent unless it can link the following syllable)
-ㄿ l (ㅍ is silent unless it can link the following syllable)
-ㅀ l (ㅎ is silent unless it can link the following syllable)
-ㅁ m
-ㅂ p
-ㅄ p (ㅅ is silent unless it can link the following syllable)
-ㅅ t
-ㅈ t
-ㅊ t
-ㅋ k
-ㅌ t
-ㅍ p
-ㅎ t (silent if there is a following syllable)				???
+
+ㄶ n (ㅎ is ALWAYS silent but ㄶ + ㄱ = ㄴㅋ, ㄶ + ㄷ = ㄴㅌ, ㄶ + ㅂ = ㄴㅍ and ㄶ + ㅈ = ㄴㅊ)
+
+
+
+ㄺ k (ㄹ is silent but both are pronounced if the following syllable can be linked to (exception(s) : 읽고 = 일코))
+ㄻ m (ㄹ is silent but both are pronounced if the following syllable can be linked to)
+
+
+
+ㄼ l (exception(s) : 밟다 = 밥따)
+ㄽ l
+ㄾ l
+
+
+
+ㄿ l
+ㄿ p (TTMIK Hangeul Master)
+
+
+
+ㅀ l (ㅎ is ALWAYS silent but ㅀ + ㄱ = ㄹㅋ, ㅀ + ㄷ = ㄹㅌ, ㅀ + ㅂ = ㄹㅍ and ㅀ + ㅈ = ㄹㅊ)
+ㅄ p
 
 
 
@@ -161,4 +181,14 @@ Consonant clusters
 ㅇ + ㄹ = ㅇㄴ
 ㅂ + ㄴ = ㅁㄴ
 
+
+
+ㅂ + ㄹ = ㅂㄴ		???
+
+
+
+2. ㅎ + ㄱ = .ㅋ, ㅎ + ㄷ = .ㅌ, ㅎ + ㅂ = .ㅍ and ㅎ + ㅈ = .ㅊ
+   also works the other way around : ㄱ + ㅎ = .ㅋ, ...
+3. ㅎ + ㄴ = ㄴㄴ
+4. ㅎ + ㅅ = ㅆ
 

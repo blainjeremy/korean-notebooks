@@ -118,6 +118,12 @@ Unnie
 싸우다 to fight
 인형 doll puppet
 부엌 kitchen
+겨자 mustard
+사슴 deer(cerf)
+노루 roe deer(chevreuil)
+쇼케이스 showcase
+유치원 kindergarden(maternelle)
+유치하다 to be childish
 
 BusyAtom
 --------
