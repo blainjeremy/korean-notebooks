@@ -32,39 +32,32 @@ Basic consonants
 ----------------
 
 ㄱ g (k/g when first letter of word)
-ㄴ n
+ㄴ n (n/d when first letter of word)
 ㄷ d (t/d when first letter of word)
-ㅁ m
+ㄹ r (l/r but romanized and pronounced ll when ㄹ + ㄹ)
+ㅁ m (m/b when first letter of word)
 ㅂ b (p/b when first letter of word)
-ㅅ s (sh when followed by an i-based sound (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅢ))
-ㅈ j (ch/j when first letter of word)
-ㄹ r (l/r when first letter of word (romanized and pronounced ll when ㄹ + ㄹ))
+ㅅ s (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅢ))
 ㅇ no sound (the syllable starts with the vowel sound)
+ㅈ j (ch/j when first letter of word)
 
-These aspirated consonants are pronounced with an increased airflow.
+Aspirated consonants are pronounced with more airflow :
 ㅋ k
 ㅌ t
 ㅍ p
 ㅊ ch
 ㅎ h
 
-To represent the letters v and f in loanwords, ㅂ and ㅍ are respectively used.
+ㅂ and ㅍ are generally used to represent the letters v and f in loanwords.
 
 Double consonants
 -----------------
 
-
-
-These consonants are pronounced with less exhale than their basic counterparts.
-Pronounced like their basic counterpart but .
-(shorter, tense your mouth, make a little pause before, little exhale, acute)			???
-
-
-
+Double consonants are pronounced with the mouth tensed and less airflow :
 ㄲ kk
 ㄸ tt
 ㅃ pp
-ㅆ ss (sh when followed by an i-based sound (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅢ))
+ㅆ ss (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅢ))
 ㅉ jj
 
 	Medial
@@ -74,12 +67,12 @@ Basic vowels
 ------------
 
 ㅏ a
-ㅗ o  (closed)
+ㅗ o  (close)
 ㅓ eo (open)
 ㅜ u
 
 ㅑ ya
-ㅛ yo  (closed)
+ㅛ yo  (close)
 ㅕ yeo (open)
 ㅠ yu
 
@@ -90,21 +83,21 @@ Diphtongs
 ---------
 
 ㅔ e
-ㅐ ae  (pronounced like ㅔ, but was originally slightly more acute)
+ㅐ ae  (pronounced like ㅔ)
 ㅖ ye
-ㅒ yae (pronounced like ㅖ, but was originally slightly more acute)
+ㅒ yae (pronounced like ㅖ)
 
 ㅘ wa
 ㅝ wo (open)
 
 ㅞ we
-ㅙ wae (pronounced like ㅞ, but was originally slightly more acute)
+ㅙ wae (pronounced like ㅞ)
 ㅚ oe  (pronounced like ㅞ)
 
 ㅟ wi
 ㅢ ui (pronounced ㅣ when not following ㅇ (for example, 희 is pronounced 히))
 
-Vowel Harmony
+Vowel harmony
 -------------
 
 Bright vowels (양성모음) have ㅏ or ㅗ as base : ㅏ ㅗ ㅑ ㅛ ㅐ ㅒ ㅘ ㅙ ㅚ.
@@ -114,9 +107,9 @@ Dark   vowels (음성모음) have ㅓ or ㅜ as base : ㅓ ㅜ ㅕ ㅠ ㅔ ㅖ �
 	Final
 	=====
 
-ㄸ, ㅃ and ㅉ are the only consonants not allowed to be used as a Final.
+ㄸ, ㅃ and ㅉ can't be used as a Final.
 
-When the next syllable starts with ㅇ, we can orally link them together : for example, 밥을 is pronounced like 바블.
+When the next syllable starts with ㅇ, we can orally link them together (for example, 밥을 is pronounced 바블).
 
 Basic consonants
 ----------------
@@ -156,10 +149,16 @@ Consonant clusters
 ㅍ p
 ㅎ t (silent if there is a following syllable)				???
 
+
+
 		===================
 		Sound Changes Rules
 		===================
 
+
+
 ㄹ + ㄴ = ㄹㄹ
 ㅇ + ㄹ = ㅇㄴ
 ㅂ + ㄴ = ㅁㄴ
+
+
