@@ -14,7 +14,7 @@ Hangeul Master
 모음 = collection
 받침 = support (cup of tea)
 라디오 = X-ray
-캐 dog
+개 dog
 나무 tree
 다리 leg(s)
 치마 skirt
@@ -124,6 +124,8 @@ Unnie
 쇼케이스 showcase
 유치원 kindergarden(maternelle)
 유치하다 to be childish
+아이 child (아이 -> 애, 이 아이 -> 얘, 저 아이 -> 쟤, 그 아이 -> 걔)
+예의 예절 manners courtesy "etiquette"
 
 BusyAtom
 --------
@@ -138,6 +140,7 @@ BusyAtom
 외국사람 foreigner
 전자레인지 microwave
 휘파람 whistling(sifflement)
+앞니 front teeth
 
 Ms. Kiki
 --------
