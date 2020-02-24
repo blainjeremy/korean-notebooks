@@ -37,7 +37,7 @@ Basic consonants
 ㄹ r (l/r but romanized and pronounced ll when ㄹ + ㄹ)
 ㅁ m (m/b when first letter of word)
 ㅂ b (p/b when first letter of word)
-ㅅ s (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅢ))
+ㅅ s (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅟ ㅢ))
 ㅇ no sound (the syllable starts with the vowel sound)
 ㅈ j (ch/j when first letter of word)
 
@@ -57,7 +57,7 @@ Double consonants are pronounced with the mouth tensed, less airflow and a highe
 ㄲ kk
 ㄸ tt
 ㅃ pp
-ㅆ ss (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅢ))
+ㅆ ss (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅟ ㅢ))
 ㅉ jj
 
 	Medial
@@ -179,11 +179,13 @@ These rules also apply to compound consonants (ex : ㅄ + ㄴ = ㅁㄴ, ㅀ + �
 ㄹ + ㄴ = ㄹㄹ
 ㄴ + ㄹ = ㄹㄹ
 ㅇ + ㄹ = ㅇㄴ
+ㄱ + ㄹ = ㅇㄴ
 
 
 
 ㅂ + ㄹ = ㅁㄴ
-ㄱ + ㄹ = ㅇㄴ
+ㅍ + ㄹ = ㅁㄴ	???
+ㅁ + ㄹ = ㅁㄴ	???
 
 
 
