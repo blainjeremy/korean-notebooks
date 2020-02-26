@@ -34,7 +34,7 @@ Basic consonants
 ㄱ g (k/g when first letter of word)
 ㄴ n (n/d when first letter of word)
 ㄷ d (t/d when first letter of word)
-ㄹ r (l/r but romanized and pronounced ll when ㄹ + ㄹ)
+ㄹ r (l/r but romanized and pronounced l when ㄹ + ㄹ)
 ㅁ m (m/b when first letter of word)
 ㅂ b (p/b when first letter of word)
 ㅅ s (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅟ ㅢ))
@@ -142,20 +142,18 @@ Compound consonants
 The second consonant is silent unless it can be linked to the following syllable.
 
 ㄳ k
-
 ㄵ n
-ㄶ n (ㅎ is ALWAYS silent but ㄶ + ㄱ = ㄴㅋ, ㄶ + ㄷ = ㄴㅌ, ㄶ + ㅂ = ㄴㅍ, ㄶ + ㅈ = ㄴㅊ and ㄶ + ㅅ = ㄴㅆ)
-
-ㄺ k (ㄹ is silent but both are pronounced if the following syllable can be linked to (exception(s) : 읽고 = 일코, 밝히다 = 발키다, ...))
-ㄻ m (ㄹ is silent but both are pronounced if the following syllable can be linked to)
-
 ㄼ l (exception(s) : 밟다 = 밥따, 넓죽하다 = 넙쭈카다, ...)
 ㄽ l
 ㄾ l
-ㄿ p
+ㅄ p
+
+ㄶ n (ㅎ is ALWAYS silent but ㄶ + ㄱ = ㄴㅋ, ㄶ + ㄷ = ㄴㅌ, ㄶ + ㅂ = ㄴㅍ, ㄶ + ㅈ = ㄴㅊ and ㄶ + ㅅ = ㄴㅆ)
 ㅀ l (ㅎ is ALWAYS silent but ㅀ + ㄱ = ㄹㅋ, ㅀ + ㄷ = ㄹㅌ, ㅀ + ㅂ = ㄹㅍ, ㅀ + ㅈ = ㄹㅊ and ㅀ + ㅅ = ㄹㅆ)
 
-ㅄ p
+ㄺ k (ㄹ is silent but both are pronounced if the following syllable can be linked to (exception(s) : 읽고 = 일코, 밝히다 = 발키다, ...))
+ㄻ m (ㄹ is silent but both are pronounced if the following syllable can be linked to)
+ㄿ p (ㄹ is silent but both are pronounced if the following syllable can be linked to)
 
 		===================
 		Sound Changes Rules
@@ -178,6 +176,7 @@ These rules also apply to compound consonants (ex : ㅄ + ㄴ = ㅁㄴ, ㅀ + �
 
 ㄹ + ㄴ = ㄹㄹ
 ㄴ + ㄹ = ㄹㄹ
+
 ㅇ + ㄹ = ㅇㄴ
 ㄱ + ㄹ = ㅇㄴ
 
