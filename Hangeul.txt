@@ -160,42 +160,39 @@ The second consonant is silent unless it can be linked to the following syllable
 		Sound Changes Rules
 		===================
 
-These rules also apply to compound consonants (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄴ = ㄹㄹ, ...)
-
-
-
-ㅂ, ㅍ + ㄴ = ㅁㄴ
-ㅂ, ㅍ + ㅁ = ㅁㅁ
+These rules also apply to compound consonants (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄴ = ㄹㄹ, ...).
+When a rule applies to consonant that has derivates, it usually also applies to them (for example, ㄱ -> ㄱ, ㅋ, ㄲ).
 
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄴ = ㄴㄴ
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㅁ = ㄴㅁ
 
-ㄱ, ㅋ, ㄲ, ㄺ + ㄴ = ㅇㄴ
-ㄱ, ㅋ, ㄲ, ㄺ + ㅁ = ㅇㅁ
+-----
 
+ㅂ + ㄴ = ㅁㄴ
+ㅂ + ㅁ = ㅁㅁ
+ㄱ + ㄴ = ㅇㄴ
+ㄱ + ㅁ = ㅇㅁ
 
+-----
 
-ㄹ + ㄴ = ㄹㄹ
-ㄴ + ㄹ = ㄹㄹ
+ㅂ, ㅁ + ㄹ = ㅁㄴ
+ㄱ, ㅇ + ㄹ = ㅇㄴ
 
-ㅇ + ㄹ = ㅇㄴ
-ㄱ + ㄹ = ㅇㄴ
+-----
 
+ㄹ <-> ㄴ = ㄹㄹ
 
+-----
 
-ㅂ + ㄹ = ㅁㄴ
-ㅍ + ㄹ = ㅁㄴ	???
-ㅁ + ㄹ = ㅁㄴ	???
+ㅎ <-> ㄱ = .ㅋ
+ㅎ <-> ㄷ = .ㅌ
+ㅎ <-> ㅂ = .ㅍ
+ㅎ <-> ㅈ = .ㅊ
 
-
-
-2. ㅎ + ㄱ = .ㅋ, ㅎ + ㄷ = .ㅌ, ㅎ + ㅂ = .ㅍ and ㅎ + ㅈ = .ㅊ
-   also works the other way around : ㄱ + ㅎ = .ㅋ, ...
-3. ㅎ + ㄴ = ㄴㄴ
-4. ㅎ + ㅅ = .ㅆ
+ㅎ + ㅅ = .ㅆ
 ㅅ + ㅎ = .ㅌ
 
-
+-----
 
 ㄷ + 이 = .지
 ㄷ + 히 = .치
@@ -203,5 +200,3 @@ These rules also apply to compound consonants (for example, ㅄ + ㄴ = ㅁㄴ, 
 
 ㄷ + 혀 = .쳐
 ㅌ + 여 = .쳐
-
-
