@@ -139,27 +139,28 @@ Double consonants
 Compound consonants
 -------------------
 
-The second consonant is silent unless it can be linked to the following syllable.
-
+The second consonant is silent unless it can be linked to the following syllable :
 ㄳ k
 ㄵ n
-ㄼ l (exception(s) : 밟다 = 밥따, 넓죽하다 = 넙쭈카다, ...)
+ㄼ l (exceptions : 밟다 = 밥따, 넓죽하다 = 넙쭈카다, ...)
 ㄽ l
 ㄾ l
 ㅄ p
 
-ㄶ n (ㅎ is ALWAYS silent but ㄶ + ㄱ = ㄴㅋ, ㄶ + ㄷ = ㄴㅌ, ㄶ + ㅂ = ㄴㅍ, ㄶ + ㅈ = ㄴㅊ and ㄶ + ㅅ = ㄴㅆ)
-ㅀ l (ㅎ is ALWAYS silent but ㅀ + ㄱ = ㄹㅋ, ㅀ + ㄷ = ㄹㅌ, ㅀ + ㅂ = ㄹㅍ, ㅀ + ㅈ = ㄹㅊ and ㅀ + ㅅ = ㄹㅆ)
+ㅎ is ALWAYS silent (but .ㅎ + ㄱ = .ㅋ, .ㅎ + ㄷ = .ㅌ, .ㅎ + ㅂ = .ㅍ, .ㅎ + ㅈ = .ㅊ and .ㅎ + ㅅ = .ㅆ) :
+ㄶ n
+ㅀ l
 
-ㄺ k (ㄹ is silent but both are pronounced if the following syllable can be linked to (exception(s) : 읽고 = 일코, 밝히다 = 발키다, ...))
-ㄻ m (ㄹ is silent but both are pronounced if the following syllable can be linked to)
-ㄿ p (ㄹ is silent but both are pronounced if the following syllable can be linked to)
+ㄹ is silent but both are pronounced if the following syllable can be linked to :
+ㄺ k (exceptions : 읽고 = 일코, 밝히다 = 발키다, ...)
+ㄻ m
+ㄿ p
 
 		===================
 		Sound Changes Rules
 		===================
 
-These rules also apply to compound consonants (ex : ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄴ = ㄹㄹ, ...)
+These rules also apply to compound consonants (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄴ = ㄹㄹ, ...)
 
 
 
