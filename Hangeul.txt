@@ -107,7 +107,7 @@ Dark   vowels (음성모음) have ㅓ or ㅜ as base : ㅓ ㅜ ㅕ ㅠ ㅔ ㅖ �
 	Final
 	=====
 
-When the next syllable starts with ㅇ, we can orally link them together (for example, 밥을 is pronounced 바블).
+When the next syllable starts with ㅇ, we can orally link them together (for example, 한국어 is pronounced 한구거).
 
 Basic consonants
 ----------------
@@ -160,8 +160,8 @@ The second consonant is silent unless it can be linked to the following syllable
 		Sound Changes Rules
 		===================
 
-These rules also apply to compound consonants (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄴ = ㄹㄹ, ...).
 When a rule applies to consonant that has derivates, it usually also applies to them (for example, ㄱ -> ㄱ, ㅋ, ㄲ).
+These rules apply to compound consonants too (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄴ = ㄹㄹ, ...).
 
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄴ = ㄴㄴ
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㅁ = ㄴㅁ
