@@ -14,7 +14,7 @@ Hangeul Master
 모음 = collection
 받침 = support (cup of tea)
 라디오 = X-ray
-개 dog
+개 dog(bigger) 강아지 dog(smaller, not necessarily puppy) 멍멍 bark sound
 나무 tree
 다리 leg(s)
 치마 skirt
@@ -32,6 +32,37 @@ Hangeul Master
 티슈 tissue(mouchoir)
 웨이터 waiter
 화이트보드 whiteboard
+컴퓨터 computer
+아이스크림 ice cream
+햄버거 hamburger
+메이크업 makeup (화장 ???)
+이메일 email
+콜라 cola (any brand)
+택시 taxi
+텔레비전 television
+테니스 tennis
+스케이트보드 skateboard
+가방 bag
+고구마 sweet potato
+구두 dress shoes (soulier/talons) (men/women)
+ㅇㅋ 오케이 오키 okay
+ㄷㄷㄷ 덜덜덜 ㅎㄷㄷ 후덜덜 fear awe(stupeur) (sound of trembling)
+ㄱㅅ 감사합니다 ㄸㅋ 땡큐 thank you
+바람 wind
+사과 apple
+손수건 handkerchief(mouchoir papier)
+스타킹 stockings(bas)
+신발 shoes
+아저씨 middle-aged man
+양말 socks
+오리 duck
+장난감 toy
+주차장 parking lot
+초콜렛 chocolate
+촛불 candlelight
+호랑이 tiger
+호루라기 whistle
+호빵 steamed bun
 
 Billy
 -----

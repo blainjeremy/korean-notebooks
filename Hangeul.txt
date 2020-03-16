@@ -160,7 +160,7 @@ The second consonant is silent unless it can be linked to the following syllable
 		Sound Changes Rules
 		===================
 
-When a rule applies to consonant that has derivates, it usually also applies to them (for example, ㄱ -> ㄱ, ㅋ, ㄲ).
+When a rule applies to a consonant that has derivates, it usually also applies to them (for example, ㄱ -> ㄱ, ㅋ, ㄲ).
 These rules apply to compound consonants too (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄴ = ㄹㄹ, ...).
 
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄴ = ㄴㄴ
