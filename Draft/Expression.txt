@@ -1,3 +1,7 @@
+		==============
+		Hangeul Master
+		==============
+
 고맙습니다 thank you
 괜찮아요 I'm okay
 너무 예뻐요 It's so pretty
@@ -20,3 +24,52 @@
 좋은 하루 보내세요 have a good day
 퇴근하고 만나요 let's meet after work
 행복하세요 be happy
+
+		=========
+		Dom & Hyo
+		=========
+
+Asking and giving permission to use lower speech levels :
+
+If you are older :
+말 놔도 돼요?
+Can I use 반말 with you?
+말 편하게 해도 돼요?
+Can I speak comfortably with you?
+
+If you are younger :
+말 놓으셔도 돼요
+You can talk casually with me.
+말 편하게 하셔도 돼요.
+You can talk casually with me.
+
+If you are the same age :
+우리 말 놓을까요?
+Shall we use 반말 with each other?
+말 편하게 해도 되죠?
+I can use 반말 with you right?
+
+		=================================
+		Beginning Korean: A Grammar Guide
+		=================================
+
+들으세요. Listen(, please).
+잘 들으세요. Listen carefully(, please).
+따라 하세요. Repeat (after me).
+대답하세요. Answer(, please).
+크게 말하세요. Speak up(, please).
+더 크게 말하세요. Speak louder(, please).
+일어나세요. Stand up(, please).
+앉으세요. Sit down(, please).
+읽으세요. Read(, please).
+쓰세요. Write (it down, please).
+칠판에 쓰세요. Write it on the chalkboard(, please).
+나를 보세요. Look at me(, please).
+칠판을 보세요. Look at the chalkboard(, please).
+책을 펴세요. Open (your) book(, please).
+알겠어요? Do you understand?
+- 네, 알겠어요. - Yes, I understand.
+- 아니오, 모르겠어요. - No, I don’t understand.
+질문 있어요? Are there any questions?
+- 네, 있어요. - Yes, I have a question.
+- 아니오, 없어요. - No, I don’t have any questions.

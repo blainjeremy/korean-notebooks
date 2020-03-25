@@ -219,6 +219,8 @@ Ms. Kiki
 Dom & Hyo
 ---------
 
+호텔 hotel
+택시 taxi
 팀 team
 게임 game
 키스 kiss
@@ -229,6 +231,85 @@ Dom & Hyo
 사자 lion
 창문 window
 음식 food
+밖 outside
+몫 share
+넓다 wide
+핥다 to lick
+끓다 to boil
+읊다 to recite
+
+Beginning Korean: A Grammar Guide
+---------------------------------
+
+파 scallion
+구 district of a city
+힘 effort strength
+손 hand
+다리 bridge
+달이 the moon
+파리 housefly
+팔 arm
+로타리 rotary
+라이터 lighter(cigarette)
+위스키 whisky
+카피 copy
+레코드 record(vinyle)
+스키 ski
+기타 guitar
+스포츠 sports
+뉴스 news
+포도 grape
+바보 idiot fool
+시계 watch clock
+가자 let's go!
+게 crab
+머리 head hair
+미래 future
+귀걸이 earring
+돼지 pig
+요리 cooking
+치마 skirt
+바다 sea
+하다 to make/do
+고추 chili pepper
+개 dog
+나무 tree
+나비 butterfly
+쇠고기 beef
+되다 to become
+오리 duck
+달 month
+탈 mask
+딸 daughter
+불 fire
+풀 grass
+뿔 horn
+쓰다 to use to write
+코끼리 elephant
+비싸다 to be expensive
+토끼 rabbit
+바빠요 s/he's busy
+허리띠 belt
+짜다 to be salty
+어쩌다 by accident
+기쁘다 to be happy
+밥 cooked rice
+말 language horse
+국 soup nation
+산 mountain
+강 river
+옷 clothes dress
+빛 light color
+닭 chicken
+흙 soil
+값 price
+빌딩 building
+웬디스 Wendy's
+버거킹 Burger King
+바이올린 violin
+넥타이 necktie
+공책 notebook(cahier)
+분필 chalk
 
 	================
 	Other Vocabulary
