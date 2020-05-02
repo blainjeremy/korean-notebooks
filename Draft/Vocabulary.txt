@@ -83,6 +83,11 @@ Billy
 자다 to sleep 짜다 to be salty
 불 fire 뿔 horns 풀 grass glue
 
+개 dog
+고양이 cat
+용 dragon
+삶 life
+
 Unnie
 -----
 
@@ -238,6 +243,51 @@ Dom & Hyo
 끓다 to boil
 읊다 to recite
 
+개 dog
+밤 night
+곰 bear
+사자 lion
+도시 city
+뱀 snake
+불 fire
+시간 time
+모자 hat
+차 car tea
+해 sun
+눈 eyes snow
+돈 money
+물  water
+바다 sea ocean
+배 pear stomach ship
+날 day
+발 foot
+손 hand
+팔 arm
+몸 body
+하늘 sky
+날씨 weather
+책 book
+음식 food
+고기 meat
+자 ruler
+새 bird
+문 door
+포도 grapes
+집 house
+칼 knife
+비누 soap
+수영 swimming
+공항 airport
+기차 train
+경찰 police
+비 rain
+강 river
+지도 map
+산 mountain
+간호사 nurse
+달 moon
+별 star
+
 Beginning Korean: A Grammar Guide
 ---------------------------------
 
@@ -373,4 +423,29 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 러브송 love song
 러브레터 love letter
 
+저장 save/storage
+만우절 April's Fool Day
+
 아무튼 anyway
+최고 best ???
+
+리모콘 remote controller
+선배님 senior(entertainment industry)
+
+숙제 homework
+
+얼굴 face visage
+
+편의점 convenient store
+우체국 post office
+병원 hospital
+약국 pharmacy
+지하절 subway
+피씨방 cybercafe
+카페 커피숍 cafe(place)
+커피 coffee
+식당 restaurant
+
+개이득 lucky(slang)
+찐팬 real fan
+인정 to admit

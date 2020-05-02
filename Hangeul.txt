@@ -126,7 +126,7 @@ Basic consonants
 ㅌ t
 ㅍ p
 ㅊ t
-ㅎ t (silent when the next syllable starts with ㅇ)
+ㅎ t
 
 Double consonants
 -----------------
@@ -147,7 +147,7 @@ The second consonant is silent unless it can be linked to the following syllable
 ㄾ l
 ㅄ p
 
-ㅎ is ALWAYS silent (but .ㅎ + ㄱ = .ㅋ, .ㅎ + ㄷ = .ㅌ, .ㅎ + ㅂ = .ㅍ, .ㅎ + ㅈ = .ㅊ and .ㅎ + ㅅ = .ㅆ) :
+ㅎ is ALWAYS silent :
 ㄶ n
 ㅀ l
 
@@ -161,21 +161,18 @@ The second consonant is silent unless it can be linked to the following syllable
 		===================
 
 When a rule applies to a consonant that has derivates, it usually also applies to them (for example, ㄱ -> ㄱ, ㅋ, ㄲ).
-These rules apply to compound consonants too (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄴ = ㄹㄹ, ...).
+These rules apply to compound consonants too (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄱ = ㄹㅋ, ...).
 
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄴ = ㄴㄴ
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㅁ = ㄴㅁ
-
------
+ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄹ = ㄴㄴ
 
 ㅂ + ㄴ = ㅁㄴ
 ㅂ + ㅁ = ㅁㅁ
+ㅂ, ㅁ + ㄹ = ㅁㄴ
+
 ㄱ + ㄴ = ㅇㄴ
 ㄱ + ㅁ = ㅇㅁ
-
------
-
-ㅂ, ㅁ + ㄹ = ㅁㄴ
 ㄱ, ㅇ + ㄹ = ㅇㄴ
 
 -----
@@ -183,6 +180,8 @@ These rules apply to compound consonants too (for example, ㅄ + ㄴ = ㅁㄴ, �
 ㄹ <-> ㄴ = ㄹㄹ
 
 -----
+
+ㅎ + ㅇ = .ㅇ
 
 ㅎ <-> ㄱ = .ㅋ
 ㅎ <-> ㄷ = .ㅌ

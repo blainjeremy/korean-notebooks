@@ -25,6 +25,12 @@
 퇴근하고 만나요 let's meet after work
 행복하세요 be happy
 
+		===========
+		Billy KMS 1
+		===========
+
+저는 공을 찼습니다 I kicked the ball
+
 		=========
 		Dom & Hyo
 		=========
@@ -73,3 +79,9 @@ I can use 반말 with you right?
 질문 있어요? Are there any questions?
 - 네, 있어요. - Yes, I have a question.
 - 아니오, 없어요. - No, I don’t have any questions.
+
+		====
+		Misc
+		====
+
+10점 만점에 9점. 9 points out of 10
