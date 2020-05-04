@@ -166,8 +166,7 @@ When a rule applies to a consonant that has derivates, it usually also applies t
 These rules apply to compound consonants too (for example ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄱ = ㄹㅋ, ...).
 
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄴ = ㄴㄴ
-ㄷ, ㅌ + ㅁ = ㄴㅁ
-ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㅁ = ㅁㅁ
+ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㅁ = ㄴㅁ
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄹ = ㄴㄴ
 
 ㅂ + ㄴ = ㅁㄴ
