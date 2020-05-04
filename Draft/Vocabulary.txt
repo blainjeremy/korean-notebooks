@@ -2,7 +2,7 @@
 	From 한글 Lessons
 	================
 
-구조 structure constitution
+구조 structure, constitution
 기본 basic
 소리문자 phonetic
 
@@ -12,9 +12,9 @@ Hangeul Master
 --------------
 
 모음 = collection
-받침 = support (cup of tea)
+받침 = support, cup of tea
 라디오 = X-ray
-개 dog(bigger) 강아지 dog(smaller, not necessarily puppy) 멍멍 bark sound
+개 dog (bigger) 강아지 dog (smaller, not necessarily puppy) 멍멍 bark sound
 나무 tree
 다리 leg(s)
 치마 skirt
@@ -23,13 +23,13 @@ Hangeul Master
 커피 coffee
 테이프 tape (cassette and/or scotch)
 귀 ear
-시계 clock horloge
+시계 clock, horloge
 뇌 brain
 우유 milk
 의자 chair
 돼지 pig
 과자 snack
-티슈 tissue(mouchoir)
+티슈 tissue (mouchoir)
 웨이터 waiter
 화이트보드 whiteboard
 컴퓨터 computer
@@ -46,12 +46,12 @@ Hangeul Master
 고구마 sweet potato
 구두 dress shoes (soulier/talons) (men/women)
 ㅇㅋ 오케이 오키 okay
-ㄷㄷㄷ 덜덜덜 ㅎㄷㄷ 후덜덜 fear awe(stupeur) (sound of trembling)
+ㄷㄷㄷ 덜덜덜 ㅎㄷㄷ 후덜덜 fear, awe (stupeur) (sound of trembling)
 ㄱㅅ 감사합니다 ㄸㅋ 땡큐 thank you
 바람 wind
 사과 apple
-손수건 handkerchief(mouchoir papier)
-스타킹 stockings(bas)
+손수건 handkerchief (mouchoir en papier)
+스타킹 stockings (bas)
 신발 shoes
 아저씨 middle-aged man
 양말 socks
@@ -64,29 +64,90 @@ Hangeul Master
 호루라기 whistle
 호빵 steamed bun
 
+파마 perm(anent) (hair)
+시계 clock, watch
+케이크 cake
+새 bird
+와인 wine
+지혜 wisdom
+예술 art
+예절 manners
+실례 bad manners
+무늬 pattern
+사의 intention to resign
+회의 meeting
+거의 almost
+새집 birdhouse
+사과 apology
+상 award, prize
+빗 comb
+빚 debt
+밖 outside
+넋 soul, spirit
+앓다 to suffer
+맑다 to be clean
+젊다 to be young
+닮다 to resemble, to take after, to look like
+읊다 to recite
+
 Billy
 -----
 
-등 back/dos
+등 back(dos)
 긁다? scratch
 값 price
 서류 document
-흙 dirt soil clay ground earth
+흙 dirt, soil, clay, ground, earth
 밝 bright
 밝다 to be bright
 어둡다 to be dark
 
-기 energy power 끼 meal
+기 energy, power 끼 meal
 달 moon 딸 daughter
 방 room 빵 bread
 살 flesh 쌀 uncooked rice
-자다 to sleep 짜다 to be salty
-불 fire 뿔 horns 풀 grass glue
+불 fire 뿔 horns 풀 grass, glue
 
 개 dog
 고양이 cat
 용 dragon
 삶 life
+꼭 surely, certainly
+똥 poop
+말씀 words
+꿀 honey
+코 nose
+털 fur, hair (not on the head)
+핸드폰 mobile phone
+검 sword 껌 gum
+춤 dance
+컴퓨터 computer
+덕 moral 떡 rice cake 턱 chin
+베다 to cut (into) 빼다 to remove 패다 to beat, to bash
+자다 to sleep 짜다 to be salty 차다 to kick
+의사 doctor
+희망 hope
+과일 fruit
+원 Won (Korean currency)
+귀 ear
+왜 why
+열쇠 key
+웰빙 healthy (from "well being")
+낮 day
+인터넷 internet
+장르 genre
+나무 tree
+레몬 lemon
+장미 rose (flower)
+바나나 banana
+지갑 wallet
+표 ticket
+쪽지 note, message (slip of paper)
+쓰레기 garbage, trash
+석탄 coal
+뼈 bone
+왕 king
+끈 string (fil), cord (cable)
 
 Unnie
 -----
@@ -96,51 +157,51 @@ Unnie
 가위 scissors
 남자 man 여자 woman
 드라마 drama
-더빙 dubbing(doublage)
+더빙 dubbing (doublage)
 도시 city
 대만 taiwan
-대통령 president(country)
+대통령 president (country)
 라면 instant noodles
-러시아 russia
+러시아 Russia
 로켓 rocket
-로비 lobby(room)
+로비 lobby (room)
 무릎 knee(s)
-문제 problem question
-부자 wealthy rich
+문제 problem, question
+부자 wealthy, rich
 바지 pants
 비자 visa
 바보 fool (cute, not too offensive)
 방귀 fart
 사과 apple
-수박 watermelon(pastèque)
+수박 watermelon (pastèque)
 자동차 car
 지하철 subway
 지도 map
 지각 tardy
 주말 weekend
-차 car tea
+차 car, tea
 치킨 (fried) chicken
 초밥 스시 sushi
 칫솔 toothbrush
 치약 toothpaste
 치과 dental hospital
 치과의사 dentist (person)
-카톡 kakao talk
+카톡 Kakao Talk
 커튼 curtain
 코트 coat
 코 nose
 택시 taxi
 티머니 T-Money
 테니스 tennis
-토론토 toronto
+토론토 Toronto
 피 blood
-파리 paris fly
-포켓몬 pokemon
-포르투갈 portugal
+파리 Paris, fly
+포켓몬 Pokemon
+포르투갈 Portugal
 하늘 sky
 호텔 hotel
-홍콩 hong kong
-허브 herb(medicine/botanic)
+홍콩 Hong Kong
+허브 herb (medicine/botanic)
 꼬마 (little) kid
 숙녀 lady
 꼬마숙녀 little lady
@@ -152,16 +213,16 @@ Unnie
 땅콩 peanut
 파도 wave
 싸우다 to fight
-인형 doll puppet
+인형 doll, puppet
 부엌 kitchen
 겨자 mustard
-사슴 deer(cerf)
-노루 roe deer(chevreuil)
+사슴 deer (cerf)
+노루 roe deer (chevreuil)
 쇼케이스 showcase
-유치원 kindergarden(maternelle)
+유치원 kindergarden (maternelle)
 유치하다 to be childish
 아이 child (아이 -> 애, 이 아이 -> 얘, 저 아이 -> 쟤, 그 아이 -> 걔)
-예의 예절 manners courtesy "etiquette"
+예의 예절 manners, courtesy, "etiquette"
 
 BusyAtom
 --------
@@ -172,10 +233,10 @@ BusyAtom
 양고기 lamb
 신 god
 가수 singer
-과수원 orchard(verger)
+과수원 orchard (verger)
 외국사람 foreigner
 전자레인지 microwave
-휘파람 whistling(sifflement)
+휘파람 whistling (sifflement)
 앞니 front teeth
 굳이 obstinately
 해돋이 sunrise
@@ -196,15 +257,15 @@ Ms. Kiki
 도로 road
 두부 tofu
 로마 roma
-모자 hat cap
-머리 head hair
+모자 hat, cap
+머리 head, hair
 부부 couple
-보리 barley(orge)
+보리 barley (orge)
 소 cow
-시소 seesaw(bascule(balançoire))
+시소 seesaw (bascule (balançoire))
 아기 baby
 오이 cucumber
-자 ruler 삼각자 triangle(équerre)
+자 ruler 삼각자 triangle (équerre)
 조개 seashell
 초 candle
 치즈 cheese
@@ -213,9 +274,9 @@ Ms. Kiki
 토끼 rabbit
 타조 ostrich
 포도 grape
-파이 pie(tarte)
+파이 pie (tarte)
 하마 hippo
-호주 australia
+호주 Australia
 까마귀 crow
 땅 land
 뽀뽀 kiss
@@ -252,13 +313,13 @@ Dom & Hyo
 불 fire
 시간 time
 모자 hat
-차 car tea
+차 car, tea
 해 sun
-눈 eyes snow
+눈 eyes, snow
 돈 money
 물  water
-바다 sea ocean
-배 pear stomach ship
+바다 sea, ocean
+배 pear, stomach, ship
 날 day
 발 foot
 손 hand
@@ -270,7 +331,7 @@ Dom & Hyo
 음식 food
 고기 meat
 자 ruler
-새 bird
+새 bird, new
 문 door
 포도 grapes
 집 house
@@ -293,27 +354,27 @@ Beginning Korean: A Grammar Guide
 
 파 scallion
 구 district of a city
-힘 effort strength
+힘 effort, strength
 손 hand
 다리 bridge
 달이 the moon
 파리 housefly
 팔 arm
 로타리 rotary
-라이터 lighter(cigarette)
+라이터 lighter (cigarette)
 위스키 whisky
 카피 copy
-레코드 record(vinyle)
+레코드 record (vinyle)
 스키 ski
 기타 guitar
 스포츠 sports
 뉴스 news
 포도 grape
-바보 idiot fool
-시계 watch clock
+바보 idiot, fool
+시계 watch, clock
 가자 let's go!
 게 crab
-머리 head hair
+머리 head, hair
 미래 future
 귀걸이 earring
 돼지 pig
@@ -334,7 +395,7 @@ Beginning Korean: A Grammar Guide
 불 fire
 풀 grass
 뿔 horn
-쓰다 to use to write
+쓰다 to use, to write
 코끼리 elephant
 비싸다 to be expensive
 토끼 rabbit
@@ -344,11 +405,11 @@ Beginning Korean: A Grammar Guide
 어쩌다 by accident
 기쁘다 to be happy
 밥 cooked rice
-말 language horse
-국 soup nation
+말 horse, words, speech, language
+국 soup, nation
 산 mountain
 강 river
-옷 clothes dress
+옷 clothes, dress
 빛 light color
 닭 chicken
 흙 soil
@@ -358,7 +419,7 @@ Beginning Korean: A Grammar Guide
 버거킹 Burger King
 바이올린 violin
 넥타이 necktie
-공책 notebook(cahier)
+공책 notebook (cahier)
 분필 chalk
 
 	================
@@ -381,13 +442,13 @@ Self Study Korean - Shanna
 
 Duolingo
 이 = tooth
-아이 = child (what about 애기(baby))
+아이 = child (what about 애기 (baby))
 우유 = milk
 우의 = friendship, raincoat
 위 = stomach, top
 
 Misc
-시장 = mayor + hungry
+시장 = mayor, hungry
 
 shop
 상점
@@ -430,11 +491,11 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 최고 best ???
 
 리모콘 remote controller
-선배님 senior(entertainment industry)
+선배님 senior (entertainment industry)
 
 숙제 homework
 
-얼굴 face visage
+얼굴 face, visage
 
 편의점 convenient store
 우체국 post office
@@ -442,10 +503,10 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 약국 pharmacy
 지하절 subway
 피씨방 cybercafe
-카페 커피숍 cafe(place)
+카페 커피숍 cafe (place)
 커피 coffee
 식당 restaurant
 
-개이득 lucky(slang)
+개이득 lucky (slang)
 찐팬 real fan
 인정 to admit

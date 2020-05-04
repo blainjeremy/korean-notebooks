@@ -13,6 +13,8 @@ More advanced letters based on the basic ones also exist :
 
 Syllables are composed of at least one consonant (Initial (초성)) and one vowel (Medial (중성)), then an optional consonant (Final (종성/받침)) can be added.
 
+Homonyms can often be differentiated based on context, or whether they have a long syllable [:] (장음) or a short syllable (단음).
+
 		==================
 		Alphabetical Order
 		==================
@@ -31,22 +33,22 @@ Final  : ㄱ ㄲ ㄳ ㄴ ㄵ ㄶ ㄷ ㄹ ㄺ ㄻ ㄼ ㄽ ㄾ ㄿ ㅀ ㅁ ㅂ ㅄ
 Basic consonants
 ----------------
 
-ㄱ g (k/g when first letter of word)
-ㄴ n (n/d when first letter of word)
-ㄷ d (t/d when first letter of word)
-ㄹ r (l/r but romanized and pronounced l when ㄹ + ㄹ)
-ㅁ m (m/b when first letter of word)
-ㅂ b (p/b when first letter of word)
-ㅅ s (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅟ ㅢ))
-ㅇ no sound (the syllable starts with the vowel sound)
-ㅈ j (ch/j when first letter of word)
+ㄱ (기역) g (k/g when first letter of word)
+ㄴ (니은) n (n/d when first letter of word)
+ㄷ (디귿) d (t/d when first letter of word)
+ㄹ (리을) r (l/r but romanized and pronounced l when ㄹ + ㄹ)
+ㅁ (미음) m (m/b when first letter of word)
+ㅂ (비읍) b (p/b when first letter of word)
+ㅅ (시옷) s (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅞ ㅟ ㅢ))
+ㅇ (이응) no sound (the syllable starts with the vowel sound)
+ㅈ (지읒) j (ch/j when first letter of word)
 
 Aspirated consonants are pronounced with more airflow :
-ㅋ k
-ㅌ t
-ㅍ p
-ㅊ ch
-ㅎ h
+ㅋ (키읔) k
+ㅌ (티읕) t
+ㅍ (피읖) p
+ㅊ (치읓) ch
+ㅎ (히읗) h
 
 ㅂ and ㅍ are generally used to represent the letters v and f in loanwords.
 
@@ -54,11 +56,11 @@ Double consonants
 -----------------
 
 Double consonants are pronounced with the mouth tensed, less airflow and a higher pitch :
-ㄲ kk
-ㄸ tt
-ㅃ pp
-ㅆ ss (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅟ ㅢ))
-ㅉ jj
+ㄲ (쌍기역) kk
+ㄸ (쌍디귿) tt
+ㅃ (쌍비읍) pp
+ㅆ (쌍시옷) ss (sh when followed by an ㅣ-based vowel (ㅣ ㅑ ㅛ ㅕ ㅠ ㅖ ㅒ ㅞ ㅟ ㅢ))
+ㅉ (쌍지읒) jj
 
 	Medial
 	======
@@ -84,7 +86,7 @@ Diphtongs
 
 ㅔ e
 ㅐ ae  (pronounced like ㅔ)
-ㅖ ye
+ㅖ ye  (often pronounced ㅔ when not following ㅇ or ㄹ)
 ㅒ yae (pronounced like ㅖ)
 
 ㅘ wa
@@ -95,7 +97,7 @@ Diphtongs
 ㅚ oe  (pronounced like ㅞ)
 
 ㅟ wi
-ㅢ ui (pronounced ㅣ when not following ㅇ (for example, 희 is pronounced 히))
+ㅢ ui (often pronounced ㅣ unless following ㅇ as the first syllable of the word (for example 희 => 히 and 사의 => 사이 but 의사 => 의사))
 
 Vowel harmony
 -------------
@@ -107,7 +109,7 @@ Dark   vowels (음성모음) have ㅓ or ㅜ as base : ㅓ ㅜ ㅕ ㅠ ㅔ ㅖ �
 	Final
 	=====
 
-When the next syllable starts with ㅇ, we can orally link them together (for example, 한국어 is pronounced 한구거).
+When the next syllable starts with ㅇ, we can orally link them together (for example 한국어 => 한구거).
 
 Basic consonants
 ----------------
@@ -152,7 +154,7 @@ The second consonant is silent unless it can be linked to the following syllable
 ㅀ l
 
 ㄹ is silent but both are pronounced if the following syllable can be linked to :
-ㄺ k (exceptions : 읽고 = 일코, 밝히다 = 발키다, ...)
+ㄺ k (exceptions (notably when the verb stem ends with ㄺ and is followed by ㄱ) : 읽고 = 일꼬, 맑게 = 말께, 밝히다 = 발키다, ...)
 ㄻ m
 ㄿ p
 
@@ -160,11 +162,12 @@ The second consonant is silent unless it can be linked to the following syllable
 		Sound Changes Rules
 		===================
 
-When a rule applies to a consonant that has derivates, it usually also applies to them (for example, ㄱ -> ㄱ, ㅋ, ㄲ).
-These rules apply to compound consonants too (for example, ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄱ = ㄹㅋ, ...).
+When a rule applies to a consonant that has derivates, it usually also applies to them (for example ㄱ => ㄱ, ㅋ, ㄲ).
+These rules apply to compound consonants too (for example ㅄ + ㄴ = ㅁㄴ, ㅀ + ㄱ = ㄹㅋ, ...).
 
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄴ = ㄴㄴ
-ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㅁ = ㄴㅁ
+ㄷ, ㅌ + ㅁ = ㄴㅁ
+ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㅁ = ㅁㅁ
 ㄷ, ㅌ, ㅅ, ㅆ, ㅈ, ㅊ, ㅎ + ㄹ = ㄴㄴ
 
 ㅂ + ㄴ = ㅁㄴ
@@ -199,3 +202,11 @@ These rules apply to compound consonants too (for example, ㅄ + ㄴ = ㅁㄴ, �
 
 ㄷ + 혀 = .쳐
 ㅌ + 여 = .쳐
+
+
+
+
+
+꽃입 꼰닙
+깻잎 깬닙
+십육 심뉵
