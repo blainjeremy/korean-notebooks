@@ -1,8 +1,10 @@
 Vocabulary :
 
 TTMIK :
+	Curriculum : L1-L1
 Go Billy Korean :
-Korean Grammar In Use :
+	Korean Made Simple : Beg-53 W-18 R-4
+Korean Grammar In Use : Beg-5
 
 BusyAtom :
 seemile Korean :
