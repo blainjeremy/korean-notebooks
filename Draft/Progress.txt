@@ -1,7 +1,7 @@
 Vocabulary :
 
 TTMIK :
-	Curriculum : L1-L3
+	Curriculum : L1-L5
 Go Billy Korean :
 	Korean Made Simple : Beg-53 W-18 R-4
 Korean Grammar In Use : Beg-5

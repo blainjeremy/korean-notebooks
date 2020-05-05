@@ -5,21 +5,23 @@
 존댓말   polite/formal language
 반말   casual/informal language
 
-	Hello
-	=====
+
+
+
+
+	Hello / Goodbye
+	===============
 
 안녕하세요.   Hello.
+	안녕   well-being, peace, health
+	하세요   you do, do you?, please do
 
-안녕   well-being, peace, health
-하세요   you do, do you?, please do
+안녕히 계세요.   Goodbye. (you leave, they stay)
+안녕히 가세요.   Goodbye. (you stay, they leave)
 
-	Thank you
-	=========
 
-감사합니다.   Thank you.
 
-감사   appreciation, thankfulness, gratitude
-합니다   I do, I am doing
+
 
 	Yes / No
 	========
@@ -45,7 +47,7 @@ More examples :
 	커피 안 좋아해요?   You don’t like coffee?
 	네. 안 좋아해요.   No, I don’t like coffee.
 
-네 can also be used as a conversation filler with the meaning :
+네 can be used as a conversation filler too, with the meaning :
 	Yes. / That’s right. / I see. / I got it. / I’m here! (when someone calls you) / I understand. / Ah-ha.
 Add 맞아요 after 네 in order to express more strongly and clearly that you are saying "You are right" rather than sounding like you are just passively listening while nodding :
 	네, 맞아요.   Yes, that’s right.
@@ -54,6 +56,40 @@ Add 맞아요 after 네 in order to express more strongly and clearly that you a
 	네?   Pardon me? / I am sorry? / What did you say? / I did not hear you well.
 
 You can also use 네? to show your surprise.
+
+
+
+
+
+	Thank you
+	=========
+
+감사합니다.   Thank you.
+	감사   appreciation, thankfulness, gratitude
+	합니다   I do, I am doing
+
+
+
+
+
+	I am sorry / Excuse me
+	======================
+
+죄송합니다.   I am sorry. / I apologize.
+	죄송   apology, being sorry, feeling ashamed
+
+Only use 죄송합니다 when you want to say "I apologize.", "It was my bad.", "I shouldn't have done that.", ...
+It can NEVER mean "I am sorry to hear that.".
+
+When you have to pass through a crowd of people, you can use :
+	잠시만요. / 잠깐만요.   Excuse me. / Just a second. (also use these when leaving the room for a second)
+	죄송합니다.   Excuse me.
+
+저기요.   Over there. Excuse me. (get someone’s attention (stranger, waiter, ...))
+
+
+
+
 
 
 
