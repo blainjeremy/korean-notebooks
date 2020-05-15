@@ -48,6 +48,7 @@ Hangeul Master
 ㅇㅋ 오케이 오키 okay
 ㄷㄷㄷ 덜덜덜 ㅎㄷㄷ 후덜덜 fear, awe (stupeur) (sound of trembling)
 ㄱㅅ 감사합니다 ㄸㅋ 땡큐 thank you
+두근두근 heart beating
 바람 wind
 사과 apple
 손수건 handkerchief (mouchoir en papier)
@@ -63,6 +64,10 @@ Hangeul Master
 호랑이 tiger
 호루라기 whistle
 호빵 steamed bun
+학교 school
+학생 student
+사무실 office
+장난감 toy
 
 파마 perm(anent) (hair)
 시계 clock, watch
@@ -108,6 +113,32 @@ Hangeul Master
 난로 heater, stove
 관리 management
 핥다 to lick
+독서 reading
+받다 to receive
+믿다 to believe, to trust
+답장 reply, answer
+입구 entrance
+닭장 chicken coop
+옷장 wardrobe, closet
+꽃병 vase
+같다 to be the same
+숲속 forest
+안다 to hug
+숨다 to hide
+앉다 to sit
+결정 decision
+실수 mistake
+활동 activity
+뱃속 stomach
+콧등 bridge of the nose
+아랫니 bottom teeth
+혼잣말 talking to oneself
+꽃잎 petal
+색연필 colored pencil
+물약 liquid medicine
+나뭇잎 leaf
+깻잎 sesame leaf
+뒷일 aftermath
 
 Billy
 -----
@@ -532,3 +563,9 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 개이득 lucky (slang)
 찐팬 real fan
 인정 to admit
+
+공주 princess
+
+진짜 정말 정말로 really
+사실 actually (adv), fact (n)
+솔직히 honestly
