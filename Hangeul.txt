@@ -204,13 +204,13 @@ These rules apply to compound consonants too (for example ㅄ + ㄴ = ㅁㄴ, �
 
 -----
 
-Irregular words examples (받침 + 이, 야, 요, 여, 유 = 받침 + ㄴ => apply another rule if needed) :
+Examples of irregular words (받침 + 이, 야, 요, 여, 유 = 받침 + ㄴ => apply another rule if needed) :
 꽃잎 => 꼰닢
 십육 => 심뉵
 색연필 => 생년필
-강남역 => 강남녁
-강남역 => 서울력
 물약 => 물략
+서울역 => 서울력
+강남역 => 강남녁
 
 Compound words (using ㅅ) may also follow this rule :
 나뭇잎 => 나문닢
