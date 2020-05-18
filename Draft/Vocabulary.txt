@@ -139,6 +139,152 @@ Hangeul Master
 나뭇잎 leaf
 깻잎 sesame leaf
 뒷일 aftermath
+집 house
+옷 clothes
+밥 food, rice
+라면 ramyeon
+레슨 lesson
+나라 country
+벌레 insect, bug
+빨리 quickly, fast
+동물 animal
+두유 soymilk
+다음 next
+배달 delivery
+자전거 bycycle
+자동차 car
+주차장 parking lot
+짱 best (slang)
+찜질방 public bathhouse, sauna
+차장 deputy chief
+자장 magnetic field
+짜장 black bean sauce
+키 height
+크다 to be big
+키가 크다 to be tall
+코감기 sinus cold
+콩국수 soybean noodles
+끝 end
+꼭대기 top
+꿀 honey
+코끝 the tip of the nose
+코끼리 elephant
+굴 oysters
+바보 stupid, idiot, dummy
+대박 big success
+부부 husband and wife
+포장 packaging
+실패 failure
+파란 turmoil, blue
+바 bar
+파 green onion
+피부 skin
+보풀 fuzz
+빨리 quickly
+빨래 laundry
+뽀뽀 kiss
+팥빵 red bean bread
+밯 room
+팡 phut
+빵 bread
+비 rain
+피 blood
+삐 beep
+상상 imagination
+선생님 teacher
+생선 fish
+시 poem
+쓰레기 garbage
+씨 seed
+새싹 sprout
+싱싱 fresh
+씽씽 fast
+달라요 It’s different
+다람쥐 squirrel
+딩동댕 Correct!
+덕 virtue
+타조 ostrich
+턱 chin
+배탈 stomachache
+두통 headache
+떡볶이 spicy stir-fried rice cake
+땅콩 peanut
+땀 sweat
+뜀틀 vaulting horse
+달 moon
+탈 mask
+딸 daughter
+동 copper
+통 bucket
+똥 poop
+덕 virtue
+턱 chin
+떡 rice cake
+당 (political) party
+탕 soup
+땅 land, ground
+오이 cucumber
+고기 meat
+오후 afternoon
+어 umm, yes, huh
+어이 the handgrip of a millstone
+없다 to not exist
+거기 there
+요 bedding
+요즘 these days
+중요 importance
+학교 school
+여 female
+여우 fox
+여기 here
+겨울 winter
+요우 a colleague (hardly used)
+요기 staving off one´s hunger
+으 ugh
+으르렁 growl
+듣다 to hear, to listen
+우 right side
+우산 umbrella
+주스 juice
+구래 from old times
+좀 a bit
+조금 a little
+작다 to be small
+작은 small
+좁다 to be narrow
+좁은 narrow
+자르다 to cut
+세다 to be strong
+센 strong
+세게 strongly
+다른 different
+닦다 to wash
+계속 continuously
+닉네임 nickname
+온리 only
+마트 big supermarket
+아파트 apartment
+아이스크림 ice cream
+티비 TV
+블로그 blog
+브이로그 vlog
+로맨스 romance
+라이벌 rival
+프라이팬 frypan
+후라이드치킨 fried chicken
+오렌지 orange
+에지 edge
+화이트 white
+휠체어 wheelchair
+서울 Seoul
+강남 Gangnam
+삼성 Samsung
+현대 Hyundai
+갈비 rib(s)
+먹방 eating in front of a camera
+태권도 taekwondo
+우리은행 Woori Bank
+에뛰드 하우스 Etude House (cosmetic brand)
 
 Billy
 -----
@@ -346,7 +492,6 @@ Dom & Hyo
 칩 chip
 사자 lion
 창문 window
-음식 food
 밖 outside
 몫 share
 넓다 wide
@@ -463,7 +608,6 @@ Beginning Korean: A Grammar Guide
 빛 light color
 닭 chicken
 흙 soil
-값 price
 빌딩 building
 웬디스 Wendy's
 버거킹 Burger King
