@@ -69,6 +69,9 @@ Hangeul Master
 사무실 office
 장난감 toy
 
+TTMIK
+-----
+
 파마 perm(anent) (hair)
 시계 clock, watch
 케이크 cake
@@ -141,7 +144,6 @@ Hangeul Master
 뒷일 aftermath
 집 house
 옷 clothes
-밥 food, rice
 라면 ramyeon
 레슨 lesson
 나라 country
@@ -324,7 +326,7 @@ Billy
 의사 doctor
 희망 hope
 과일 fruit
-원 Won (Korean currency)
+원 circle, Won (Korean currency)
 귀 ear
 왜 why
 열쇠 key
@@ -544,6 +546,168 @@ Dom & Hyo
 달 moon
 별 star
 
+Conversational Korean
+---------------------
+
+읽기 reading
+연습 practice
+구기 ball game(s)
+쿠키 cookie
+기가 giga
+곡 song
+꼭 surely, exactly
+깨 sesame
+누구 who
+그네 playground swing
+난 nan (bread)
+논 rice field
+돈 money
+톤 ton, tone
+도둑 thief
+도 degree (angles, temperatures)
+또 again
+다리 bridge, leg
+돌 stone
+롤 role, roll
+롤러 roller
+노래 song
+도르래 pulley
+라일락 lilac
+갤러리 gallery
+몸 body
+매미 cicada
+메모 memo
+밥 cooked rice, meal
+살 flesh
+쌀 uncooked rice
+세상 world
+시설 facility
+소식 news
+시 poem, city
+사슴 deer
+맛 taste
+샷 shot
+아이 kid, child
+우유 milk
+앵두 cherry
+용 dragon
+용어 term (word)
+양 sheep
+영웅 hero
+주전자 kettle
+재주 skill, tact
+짐 load, baggage
+찜 steamed food/dish
+낮 daytime
+재채기 sneeze
+유자차 citron tea
+참치 tuna
+치즈 cheese
+꽃 flower
+크로키 croquis
+튀김 fried food
+밭 farm field other than rice field
+표 ticket
+피부 skin
+무릎 knee
+해 sun
+바다 sea
+하마 hippo
+나라 country
+야구 baseball
+그냥 just
+향수 perfume
+컵 cup
+전설 legend
+버섯 mushroom
+혀 tongue
+편견 prejudice
+연결 connection
+포도 grape
+온도 temperature
+초보 beginner
+요가 yoga
+교실 classroom
+쇼핑 shopping
+무 radish
+두부 tofu
+추수 harvesting
+귤 tangerine
+자유 freedom
+오류 error
+금 gold
+은 silver
+스크린 screen
+기린 giraffe
+비밀 secret
+이끼 moss
+앱 app
+냄새 smell
+얘기 story
+베개 pillow
+세제 detergent
+계약 contract
+지혜 wisdom
+와인 wine
+돼지 pig
+인쇄 print
+뇌 brain
+외국 foreign country
+뭐 what
+궤도 orbit
+웹캠 webcam
+귀 ear
+위치 location
+희망 hope
+방향 direction
+동 East 서 West 남 South 북 North
+김치찌개 kimchi stew
+뚜껑 lid
+도서관 library
+취미 hobby
+
+의원 clinic
+안과의원 ophthalmology clinic
+내과의원 internal medicine clinic
+이비인후과의원 otolaryngology clinic
+소아과의원 pediatrics clinic
+피부과의원 dermatology clinic
+산부인과의원 obstetrics and gynecology clinic
+정형외과의원 orthopedic clinic
+한의원 oriental clinic
+부동산 real estate
+공인중개사 certified realtor 공인 officially approved 중개사 broker (job titles that end in 사 indicate he/she passed the official exam)
+약국 pharmacy
+약 medicine
+안경 glasses
+콘택트 contact lens
+세탁소 dry cleaners 빨래방 laundromat 세탁/빨래 laundry
+미용실/헤어샵 hair salon
+학원/아카데미 academy
+사진관 photo studio
+호프 beer house
+문고 bookstore (placed at the end of the shop's name)
+문구 stationery
+바둑 go (game)
+기원 place where you can play go
+당구장 billiard hall
+주차장 parking place
+철물점 hardware store
+구두수선 dress-shoe repair 수선 repairing shoes or dresses
+주민센터 community center 주민 local resident
+식당 place where you can eat meal (includes cafeterias, eateries, your dining room, ...)
+분식 place where you can order low cost meals (originally means wheat foods such as ramen, bread, noodles, ...))
+노래방 singing room
+골프연습장 golf practice place 골프 golf
+필라테스 pilates
+휘트니스 fitness 헬스 health (both means gym)
+양복점 tailor shop
+보드게임 board game
+매표소 ticket office
+지하상가 underground shopping arcade 지하 underground 상가 shopping arcade
+수제가방 hand-made bags 수제 hand-made 가방 bag
+수리전문 repairing specialist 수리 repair 전문 speciality
+
 Beginning Korean: A Grammar Guide
 ---------------------------------
 
@@ -589,7 +753,7 @@ Beginning Korean: A Grammar Guide
 딸 daughter
 불 fire
 풀 grass
-뿔 horn
+뿔 horn, antler
 쓰다 to use, to write
 코끼리 elephant
 비싸다 to be expensive
