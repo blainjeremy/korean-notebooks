@@ -707,6 +707,66 @@ Conversational Korean
 지하상가 underground shopping arcade 지하 underground 상가 shopping arcade
 수제가방 hand-made bags 수제 hand-made 가방 bag
 수리전문 repairing specialist 수리 repair 전문 speciality
+곰 bear
+기러기 wild goose
+망고 mango
+일기 diary
+돌 stone
+대대 battalion
+호도 walnut (noix)
+만두 dumpling
+행동 behavior
+주방 kitchen
+냄비 pot (marmite, casserole)
+군밤 roasted chestnuts (marrons chauds)
+제조 manufacturing
+우주 space, universe
+밴조 banjo
+바람 wind
+소리 sound
+노루 roe deer
+모래 sand
+지렁이 worm
+길이 length
+얼음 ice
+놀이터 playground
+물음표 question mark
+달인 expert
+벌레 bug
+첼로 cello
+알림 notification
+설립 establishment
+출력 output, print
+공룡 dinosaur
+금리 interest rate
+독립 independence
+업로드 upload
+논리 logic
+링크 link, rink
+레몬 lemon
+로고 logo
+라면 ramen
+로켓 rocket
+미로 maze
+물리 physics
+볼록 convex
+렌트 rent
+방랑 wandering
+실리 practical/real benefit
+통로 passage, aisle
+수로 waterway, aqueduct, channel
+뿌리 root of a plant
+놓다 put something on something
+넣다 put something into something
+닿다 to touch, to make contact
+국내 domestic (inside the country)
+얼룩말 zebra
+낱말 word
+업무 task
+앞니 front teeth
+박하 papermint
+맏형 oldest brother
+굳히다 to harden, to solidify
 
 Beginning Korean: A Grammar Guide
 ---------------------------------
