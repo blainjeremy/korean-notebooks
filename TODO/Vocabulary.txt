@@ -2,11 +2,28 @@
 	From 한글 Lessons
 	================
 
+Hangeul
+-------
+
 구조 structure, constitution
 기본 basic
 소리문자 phonetic
 
-김밥 비빔밥 김치 짜장면 잡채
+자모 alphabet, letter
+기본자음 basic consonants
+기본모음 basic vowels
+겹받침 compound consonants
+
+초성 initial
+중성 medial
+종성, 받침 final
+
+장음 long syllable
+단음 short syllable
+
+양성모음 bright vowel
+음성모음 dark vowel
+중성모음 neutral vowel
 
 Hangeul Master
 --------------
@@ -190,7 +207,7 @@ TTMIK
 삐 beep
 상상 imagination
 선생님 teacher
-생선 fish
+생선 fish to eat
 시 poem
 쓰레기 garbage
 씨 seed
@@ -283,6 +300,29 @@ TTMIK
 태권도 taekwondo
 우리은행 Woori Bank
 에뛰드 하우스 Etude House (cosmetic brand)
+외계인 alien
+집안일 house chores
+안 inside
+밀다 to push
+뛰다 to run, to jump
+준비 preparation
+준비하다 to prepare
+청소하다 to clean
+
+잡다 to catch, to hold
+이기다 to win
+지다 to lose
+모기 mosquito
+포기하다 to give up
+
+펜 pen
+연필 pencil
+책상 desk
+들다 to pick up
+쥐다 to hold
+지우개 eraser
+지우다 to erase
+형광펜 highlighter
 
 Billy
 -----
@@ -542,6 +582,38 @@ Dom & Hyo
 달 moon
 별 star
 
+공항 airport
+팔 arm
+발 foot
+곰 bear
+도시 city
+날 day
+문 door
+지구 earth
+눈 eyes, snow
+음식 food
+손 hand
+칼 knife
+지도 map
+고기 meat
+돈 money
+사자 lion
+산 mountain
+간호사 nurse
+경찰 police
+강 river
+자 ruler
+바다 sea
+하늘 sky
+뱀 snake
+비누 soap
+해 sun
+수영 swimming
+시간 time
+기차 train
+물 water
+날씨 weather
+
 Conversational Korean
 ---------------------
 
@@ -763,6 +835,19 @@ Conversational Korean
 박하 papermint
 맏형 oldest brother
 굳히다 to harden, to solidify
+소리 sound
+모래 sand
+길이 length
+달인 expert
+벌레 bug
+첼로 cello
+알림 notification
+출력 print
+밀림 jungle
+레몬 lemon
+로고 logo
+라면 ramen
+링크 link, rink
 
 Beginning Korean: A Grammar Guide
 ---------------------------------
@@ -783,6 +868,7 @@ Beginning Korean: A Grammar Guide
 스키 ski
 기타 guitar
 스포츠 sports
+스포츠카 sport car
 뉴스 news
 포도 grape
 바보 idiot, fool
@@ -836,9 +922,205 @@ Beginning Korean: A Grammar Guide
 공책 notebook (cahier)
 분필 chalk
 
+The Korean Dream
+----------------
+
+편의점 convenient store
+우체국 post office
+병원 hospital
+약국 pharmacy
+지하절 subway
+피씨방 cybercafe
+카페 커피숍 cafe (place)
+커피 coffee
+식당 restaurant
+찜질방 sauna
+마트 mart/supermarket
+전통시장 traditional market
+반찬 side dishes
+공원 park
+성형외과 plastic surgery
+피부과 dermatologist
+꽃집 florist
+부케 bouquet
+회사 company
+사무실 office
+교회 church
+절 temple
+주차장 parking lot
+
+아파트 apartment, flat
+놀이터 playground
+우편함 mailbox, letterbox
+엘리베이터 elevator
+계단 stairs
+방 room
+침실 bedroom
+문 door
+침대 bed
+베개 pillow (oreiller)
+이불 blanket (couverture)
+옷장 closet, wardrobe
+책상 desk
+거울 mirror
+창문 window
+베란다 balcony, veranda
+세탁기 washing machine
+거실 living room
+소파 sofa
+텔레비전 television
+에어컨 air conditioner
+식탁 dinning/cooking table
+의자 chair
+싱크대 sink (évier)
+설거지 dishwashing (vaiselle)
+설거지하다 to wash the dishes
+냉장고 refrigerator
+욕실 bathroom
+화장실 toilets
+샤워하다 to take a shower
+쉬(하다) pipi
+똥(싸다) caca
+휴지/화장지 toilet paper, tissue
+칫솔 toothbrush
+치약 toothpaste
+비누 soap
+
+카트 shopping cart (caddie)
+매장 입구 store entrance
+화장품 cosmetics
+화장지 toilet paper
+샴푸 shampoo
+바디워시 body wash (gel douche)
+생리대 sanitary pad (serviette hygiènique)
+음료수 drink
+술 alcohol
+맥주 beer
+요거트 yogurt
+할인 discount (promo)
+와인 wine
+소고기 beef (viande de boeuf)
+돼지고기 pork (viande de porc)
+닭고기 chicken meat (viande de porc)
+생선 fish to eat
+물고기 living fish
+계란 egg
+과일 fruit
+야채 vegetable
+마늘 garlic (ail)
+양파 onion
+디저트 dessert
+계산하다 make a calculation, to pay
+멤버십카드 loyalty card, membership card (carte de fidélité)
+봉투 bag for shopping, enveloppe
+영수증 receipt (ticket de caisse)
+
+사무실 office
+회사 company (entreprise)
+출근하다 to go to work
+일 하다 to work
+작업 일 work
+직업 occupation (métier)
+책상 desk
+미팅룸, 회의실 meeting room
+회의하다 have a meeting (faire une réunion)
+직급 title (titre, grade)
+명함 calling card (carte de visite)
+점심시간 eating time
+아아, 아이스 아메리카노 ice americano (café)
+이력서 CV
+면접 interview (entretien d'embauche)
+연봉 salary (yearly)
+월급 salary (monthly)
+퇴근하다 to leave work
+야근하다 overtime (heures supplémentaires)
+동료 coworker
+회식 company meal (dîner d'entreprise)
+
+젓가락 chopsticks
+숟가락, 스푼 spoon
+반찬 side dishes
+쌈 food wrapped in a leaf
+건배, 짠 cheers (santé)
+
+Learn Korean in Korean
+----------------------
+
+바지 
+교수 
+스키 
+유리 
+나이 
+부모 
+초코 
+유자 
+아버지 
+주머니 
+꼬리 
+까치 
+자꾸 
+토끼 
+따다 
+로또 
+뚜비 
+뼈 
+뽀뽀 
+아빠 
+싸요 
+써요 
+쓰다 
+짜요 
+쪄요 
+찌르르 
+과자 
+쟤 
+얘기 
+봬요 
+퇴 
+쉬어요 
+세모 
+궤도 
+가짜 
+지치다 
+코끼리 
+초파리 
+바빠요 
+타짜 
+악 
+밖 
+받 
+겉 
+낮 
+돛 
+얗 
+합 
+죽 
+세탁기 
+낚다 
+돈 
+도서관 
+걷다 
+밑 
+바깥 
+발 
+쌀 
+팔 
+교실 
+딸기 
+옆 
+무릎 
+숲 
+영화 
+청소 
+공방 
+동생 
+몫이 
+
 	================
 	Other Vocabulary
 	================
+
+TEXTING & CO
 
 존댓말 polite/formal language
 반말  casual/informal language
@@ -903,6 +1185,7 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 
 러브송 love song
 러브레터 love letter
+낭만 romantic
 
 저장 save/storage
 만우절 April's Fool Day
@@ -916,16 +1199,7 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 숙제 homework
 
 얼굴 face, visage
-
-편의점 convenient store
-우체국 post office
-병원 hospital
-약국 pharmacy
-지하절 subway
-피씨방 cybercafe
-카페 커피숍 cafe (place)
-커피 coffee
-식당 restaurant
+그림자 shadow
 
 개이득 lucky (slang)
 찐팬 real fan
@@ -933,6 +1207,7 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 
 공주 princess
 인형 doll, plush
+숏컷단발파 short haircut (parade band version)
 
 진짜 정말 정말로 really
 사실 actually (adv), fact (n)
@@ -941,16 +1216,104 @@ http://www.learnkoreanlanguage.com/Korean-Culture.html
 세상에 oh my gosh
 알라뷰 I love you (cute)
 뻥이야 just kidding 뻥 lie
+자짠 tada
 
 학교통, 양 아치 School rebel (the kid who doesn’t listen to the teachers, picks fights a lot)
 모범생 opposite of a 양아치 :a kid who’s really good at school
 
 얼짱 best looking person in a given group
+몸짱 a person with a good body
 쌩얼 face without makeup
 변태 pervert
-야동 p*rnography
-몸짱 a person with a good body
+야동 p*rn*gr*phy
 바람둥이 a player, a guy who dates all the girls
 간지교 a cool guy, a stylish guy
 
 멘붕 mental breakdown
+상어 shark
+나방 moth (papillon de nuit)
+기대되다 to look forward to
+화분 flower pot
+악몽 nightmare
+디지털 카메라, 디카 digital camera
+맨투맨 스웨터 sweatshirt
+팬티 빤스 underwear
+눈쇼핑 window shopping
+키링 keyring (porte-clés)
+
+웨딩 wedding
+웨스트 west
+잉카 Inca
+
+왕 귀족
+인장 헤더
+
+빗 comb 빚 debt 빛 light
+갑 갚 값
+
+밟다
+넓죽하다
+
+김밥 비빔밥 김치 짜장면 잡채
+
+예담쌤 in Holics folder with the original links below :
+https://twitter.com/yedam_holic/status/1321413881948827650
+https://twitter.com/yedam_holic/status/1324694168866729985
+https://twitter.com/yedam_holic/status/1325015585265078274
+
+코로나 corona
+바이러스 virus
+백신 vaccine
+마스크 mask
+마스크팩 face mask (skin moisturizing)
+확진자 confirmed case
+확찐자 a person who suddenly gains a lot of weight
+
+댓글 comment
+눈사람 snowman
+녹이다 to melt, to dissolve
+출연하다 to appear (tv, movie, ... (for a performance, make an appearance))
+나타나다 to appear (in sight)
+나가다 to leave, to go out
+
+나이 age
+연세 age (HONORIFIC)
+몇 살 how old
+나이를 먹다 to get older (to eat/gain age)
+나이가 들다 to get older (age enters/fills up)
+
+나이테 growth ring (tree age)
+테 border
+안경테 glasses frame
+테두리 boundary of a shape
+
+두르다 to put something around something
+목도리를 두르다 to put on a scarf
+스카프 scarf (fine, tissue, light for summer)
+목도리, 머플러 (thick, wool, warm for winter)
+
+젊다 to be young
+어리다 to be young and little as a child, to be immature
+새집 bird's nest, new house
+
+비비다 to mix
+챗, 채팅 chat
+짤 meme
+유명하다 to be famous
+공감하다 to relate to someone/something, to feel sympathy with
+의기양양 attitude or behaviour full of pride and satisfaction usually after an achievement
+취소 cancelled
+게시물 post (publication)
+덤벨 weight (haltère)
+헬스 gym (activity)
+헬스장 gym (place)
+
+#yhword
+현생 現生 life of reality (used by younger people)
+꽃망울 young flower bud
+문득 suddenly reminded of thoughts and feelings. It's not like an accident, it's like every other day, but it's something that comes to mind, even if the things that ‘문득’ came to mind were expressed in tears, wish we could smile again ‘문득’.
+눈동자 pupil
+밤샘 all-nighter (nuit blanche)
+김칫국 refers to the kimchi soup, but it is also used to mistake the future that has not yet come or the other person's mind that has not been confirmed yet. Now I am drinking kimchi soup that we will sing a new album together at the concert hall!
+불멍 look at the fire and think nothing of it
+귀 빠진 날 It's another word that means birthday in Korea. It's an expression of ‘ear came out’. Maybe it stems from that when the baby's ears start to come out at birth, it means crisis is over.
